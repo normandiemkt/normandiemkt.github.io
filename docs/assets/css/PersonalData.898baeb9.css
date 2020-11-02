@@ -1,0 +1,6 @@
+.btn[data-v-4c6f7600] {
+  background-image: linear-gradient(to right, #e4ceaa 0%, #dea43e 51%, #b17817 100%);
+}
+.btn[data-v-4c6f7600]:hover {
+  background-position: right center;
+}
